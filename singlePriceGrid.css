@@ -55,9 +55,9 @@ section {
 }
 
 .heading {
-	font-size: 25px;
 	font-weight: 700;
 	color: hsl(179, 62%, 43%);
+	margin-top: 0;
 }
 
 .title {
@@ -66,6 +66,7 @@ section {
 
 .top .title {
 	color: hsl(71, 73%, 54%);
+	font-weight: 400;
 }
 
 .text {
